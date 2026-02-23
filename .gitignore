@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Environments
+.env
+.env.*
+!.env.example
+ai_server/.env
+stt_server/.env
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Distribution / Build
+dist/
+build/
+*.egg-info/
+
+# Secrets
+*.key
+*.pem
+*.p12
+
+
+.log
+.log.*
+
+# Tests
+tests/
