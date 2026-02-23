@@ -99,4 +99,4 @@ python bias_test.py
 ## 📝 파일 구조
 - `bias_test.py`: 100회 자동화 A/B 테스트 스크립트 (Python)
 - `results.json`: 100번의 LLM Raw Response 응답과 평가 사유가 담긴 원본 데이터
-- `reference_gemini.md`: (Optional) 실험 설계 전 참고한 Gemini 모델 아키텍처 공식 레퍼런스
+
