@@ -40,3 +40,7 @@ build/
 
 # Tests
 tests/
+# Experiment Result Files
+*.json
+*.txt
+*.pdf
