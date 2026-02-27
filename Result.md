@@ -74,3 +74,9 @@ Constrained Decoding만으로 위치 편향이 0%가 되었음에도, PAIRS 로�
 *   **초박빙(Edge Case) 판정 보험**: 두 유저의 답변 퀄리티가 우열을 가리기 힘든 점수일 경우, Enum 제약에도 불구하고 모델이 다시 텍스트상 무승부(TIE)를 낼 수 있습니다. 이때 PAIRS 수식이 소수점 단위의 양방향 평균(`A: 51.2% vs B: 48.8%`)을 계산하여 최후의 판사 역할을 수행합니다.
 *   **모델 업데이트 대비 안전망**: LLM 제공사(Google)의 내부 모델 가중치 변경으로 위치 편향이 재발하더라도, 수학적 상계 처리(평균 산출) 알고리즘이 뒤에서 이를 방어해 줍니다.
 *   **게임화(Gamification) 지표 제공**: 단순 승패 판정을 넘어 유저 프론트엔드에 **"승리 확신도(Confidence Score)"**를 제공력하여 콘텐츠의 재미와 판정의 설득력을 전적으로 뒷받침합니다.
+
+참고 자료:
+
+[google developers](https://developers.googleblog.com/unlock-gemini-reasoning-with-logprobs-on-vertex-ai/)
+
+[GCP github](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/logprobs/intro_logprobs.ipynb)
