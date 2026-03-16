@@ -1,0 +1,802 @@
+[
+  {
+    "trial": 1,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers provide accurate definitions, Answer 2 is more technically complete. It includes the concept of the Process Control Block (PCB) and the process state lifecycle (New, Ready, Running, Waiting, Terminated), which are essential for understanding how an operating system actually manages and schedules processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers provide accurate definitions, Answer 2 is more technically complete. It includes the concept of the Process Control Block (PCB) and the process state lifecycle (New, Ready, Running, Waiting, Terminated), which are essential for understanding how an operating system actually manages and schedules processes.\"\n}"
+  },
+  {
+    "trial": 2,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is more technically complete as it includes the mechanism of management (Process Control Block) and the dynamic lifecycle (Process States), which are essential for a technical understanding of processes. While Answer 1 is accurate regarding resources and isolation, Answer 2 better describes how the OS interacts with the process.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more technically complete as it includes the mechanism of management (Process Control Block) and the dynamic lifecycle (Process States), which are essential for a technical understanding of processes. While Answer 1 is accurate regarding resources and isolation, Answer 2 better describes how the OS interacts with the process.\"\n}"
+  },
+  {
+    "trial": 3,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is superior because it includes essential technical concepts such as the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an operating system actually manages and tracks execution.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is superior because it includes essential technical concepts such as the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an operating system actually manages and tracks execution.\"\n}"
+  },
+  {
+    "trial": 4,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically complete explanation of a process from an Operating Systems perspective by including the mechanism of management (the Process Control Block) and the dynamic lifecycle (process states). Answer 1 is accurate regarding resources and memory layout but lacks these core OS management concepts.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically complete explanation of a process from an Operating Systems perspective by including the mechanism of management (the Process Control Block) and the dynamic lifecycle (process states). Answer 1 is accurate regarding resources and memory layout but lacks these core OS management concepts.\"\n}"
+  },
+  {
+    "trial": 5,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is superior because it includes critical technical details regarding how the operating system actually manages a process, specifically mentioning the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 provides a good general overview, Answer 2 offers a more comprehensive technical definition.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is superior because it includes critical technical details regarding how the operating system actually manages a process, specifically mentioning the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 provides a good general overview, Answer 2 offers a more comprehensive technical definition.\"\n}"
+  },
+  {
+    "trial": 6,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers provide accurate definitions, Answer 2 is more technically complete for an OS context. It introduces the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an operating system actually manages and schedules processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers provide accurate definitions, Answer 2 is more technically complete for an OS context. It introduces the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an operating system actually manages and schedules processes.\"\n}"
+  },
+  {
+    "trial": 7,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is more technically comprehensive for an Operating Systems context. While both define a process correctly, Answer 2 includes the specific mechanism the OS uses to manage processes (the Process Control Block) and details the standard 5-state lifecycle model, which are fundamental to understanding process management.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more technically comprehensive for an Operating Systems context. While both define a process correctly, Answer 2 includes the specific mechanism the OS uses to manage processes (the Process Control Block) and details the standard 5-state lifecycle model, which are fundamental to understanding process management.\"\n}"
+  },
+  {
+    "trial": 8,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is more technically complete for an Operating Systems context. While Answer 1 provides a good high-level overview and mentions memory segments, Answer 2 includes the specific management mechanism (Process Control Block) and the fundamental process lifecycle (states like Ready, Running, Waiting), which are essential to a technical understanding of processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more technically complete for an Operating Systems context. While Answer 1 provides a good high-level overview and mentions memory segments, Answer 2 includes the specific management mechanism (Process Control Block) and the fundamental process lifecycle (states like Ready, Running, Waiting), which are essential to a technical understanding of processes.\"\n}"
+  },
+  {
+    "trial": 9,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically rigorous definition by including the specific data structure used by the OS (the Process Control Block) and the fundamental five-state lifecycle model. While Answer 1 correctly identifies memory sections, Answer 2 better explains the mechanisms of process management and execution tracking.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically rigorous definition by including the specific data structure used by the OS (the Process Control Block) and the fundamental five-state lifecycle model. While Answer 1 correctly identifies memory sections, Answer 2 better explains the mechanisms of process management and execution tracking.\"\n}"
+  },
+  {
+    "trial": 10,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically complete explanation for an Operating Systems context. While both are accurate, Answer 2 includes the Process Control Block (PCB) and the process lifecycle states, which are essential concepts for understanding how an OS manages and schedules processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically complete explanation for an Operating Systems context. While both are accurate, Answer 2 includes the Process Control Block (PCB) and the process lifecycle states, which are essential concepts for understanding how an OS manages and schedules processes.\"\n}"
+  },
+  {
+    "trial": 11,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 1 provides a more holistic explanation of what a process is by covering its definition, its resource requirements, its internal memory layout (code, data, and stack), and the fundamental concept of address space isolation, which distinguishes it from other execution units.",
+    "raw_response": "{\n  \"winner\": \"1\",\n  \"reason\": \"Answer 1 provides a more holistic explanation of what a process is by covering its definition, its resource requirements, its internal memory layout (code, data, and stack), and the fundamental concept of address space isolation, which distinguishes it from other execution units.\"\n}"
+  },
+  {
+    "trial": 12,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically complete definition by including the Process Control Block (PCB) and the process lifecycle states, which are fundamental to understanding how an operating system manages processes. Answer 1 is accurate but focuses more on resources and memory layout.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically complete definition by including the Process Control Block (PCB) and the process lifecycle states, which are fundamental to understanding how an operating system manages processes. Answer 1 is accurate but focuses more on resources and memory layout.\"\n}"
+  },
+  {
+    "trial": 13,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers provide accurate definitions, Answer 2 is more technically comprehensive for an Operating Systems context. It introduces the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how the OS manages and schedules execution.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers provide accurate definitions, Answer 2 is more technically comprehensive for an Operating Systems context. It introduces the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how the OS manages and schedules execution.\"\n}"
+  },
+  {
+    "trial": 14,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically comprehensive explanation by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to how an Operating System manages processes. Answer 1 is accurate but more high-level.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically comprehensive explanation by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to how an Operating System manages processes. Answer 1 is accurate but more high-level.\"\n}"
+  },
+  {
+    "trial": 15,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers are accurate, Answer 2 is more technically complete from an operating systems perspective. It introduces the Process Control Block (PCB) and the specific state machine (New, Ready, Running, etc.) that defines a process's lifecycle, which are fundamental concepts. Answer 1 provides a good overview of memory segments but lacks the management and behavioral details provided in Answer 2.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers are accurate, Answer 2 is more technically complete from an operating systems perspective. It introduces the Process Control Block (PCB) and the specific state machine (New, Ready, Running, etc.) that defines a process's lifecycle, which are fundamental concepts. Answer 1 provides a good overview of memory segments but lacks the management and behavioral details provided in Answer 2.\"\n}"
+  },
+  {
+    "trial": 16,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers are accurate, Answer 2 provides a more technically complete explanation by introducing the Process Control Block (PCB) and the standard process lifecycle states (New, Ready, Running, etc.), which are fundamental to how an operating system actually manages processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers are accurate, Answer 2 provides a more technically complete explanation by introducing the Process Control Block (PCB) and the standard process lifecycle states (New, Ready, Running, etc.), which are fundamental to how an operating system actually manages processes.\"\n}"
+  },
+  {
+    "trial": 17,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is more technically complete for an Operating Systems context. While both provide accurate definitions, Answer 2 includes the Process Control Block (PCB) and the Process Lifecycle (States), which are fundamental to understanding how an OS manages and tracks processes. Answer 1 is clear but misses these critical management components.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more technically complete for an Operating Systems context. While both provide accurate definitions, Answer 2 includes the Process Control Block (PCB) and the Process Lifecycle (States), which are fundamental to understanding how an OS manages and tracks processes. Answer 1 is clear but misses these critical management components.\"\n}"
+  },
+  {
+    "trial": 18,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more comprehensive technical explanation by including the Process Control Block (PCB) and the specific states of the process lifecycle (New, Ready, Running, etc.), which are essential concepts for understanding how an Operating System manages processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive technical explanation by including the Process Control Block (PCB) and the specific states of the process lifecycle (New, Ready, Running, etc.), which are essential concepts for understanding how an Operating System manages processes.\"\n}"
+  },
+  {
+    "trial": 19,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more comprehensive technical overview by including the Process Control Block (PCB) and the process lifecycle states, which are fundamental to how an operating system manages execution. Answer 1 is accurate but misses the heap in its memory description and omits the management structures used by the OS.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive technical overview by including the Process Control Block (PCB) and the process lifecycle states, which are fundamental to how an operating system manages execution. Answer 1 is accurate but misses the heap in its memory description and omits the management structures used by the OS.\"\n}"
+  },
+  {
+    "trial": 20,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers provide accurate definitions, Answer 2 is more technically comprehensive for an Operating Systems context. It includes the mechanism of OS management (the Process Control Block) and the dynamic lifecycle of a process (state transitions), whereas Answer 1 focuses more on memory sections and resource requirements.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers provide accurate definitions, Answer 2 is more technically comprehensive for an Operating Systems context. It includes the mechanism of OS management (the Process Control Block) and the dynamic lifecycle of a process (state transitions), whereas Answer 1 focuses more on memory sections and resource requirements.\"\n}"
+  },
+  {
+    "trial": 21,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically complete explanation from an operating system's perspective. While Answer 1 correctly identifies memory sections and isolation, Answer 2 explains the core management mechanism (Process Control Block) and the fundamental lifecycle (Process States), which are essential to understanding how the OS schedules and handles processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically complete explanation from an operating system's perspective. While Answer 1 correctly identifies memory sections and isolation, Answer 2 explains the core management mechanism (Process Control Block) and the fundamental lifecycle (Process States), which are essential to understanding how the OS schedules and handles processes.\"\n}"
+  },
+  {
+    "trial": 22,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers provide accurate definitions, Answer 2 is more technically comprehensive regarding Operating System internals. It identifies the Process Control Block (PCB) as the key management structure and outlines the standard process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an OS handles processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers provide accurate definitions, Answer 2 is more technically comprehensive regarding Operating System internals. It identifies the Process Control Block (PCB) as the key management structure and outlines the standard process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an OS handles processes.\"\n}"
+  },
+  {
+    "trial": 23,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically complete definition by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to how an operating system manages processes. Answer 1 is accurate but more descriptive of the resources used rather than the OS management mechanisms.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically complete definition by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to how an operating system manages processes. Answer 1 is accurate but more descriptive of the resources used rather than the OS management mechanisms.\"\n}"
+  },
+  {
+    "trial": 24,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers provide accurate definitions, Answer 2 is more technically comprehensive for an Operating Systems context. It includes the mechanism of management (Process Control Block), specific hardware context (program counter, registers), and the formal lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an OS actually handles processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers provide accurate definitions, Answer 2 is more technically comprehensive for an Operating Systems context. It includes the mechanism of management (Process Control Block), specific hardware context (program counter, registers), and the formal lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an OS actually handles processes.\"\n}"
+  },
+  {
+    "trial": 25,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more comprehensive technical definition by including the specific mechanisms the OS uses to manage a process (the Process Control Block) and the state transition model (New, Ready, Running, etc.), which are fundamental to understanding processes within an operating system context.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive technical definition by including the specific mechanisms the OS uses to manage a process (the Process Control Block) and the state transition model (New, Ready, Running, etc.), which are fundamental to understanding processes within an operating system context.\"\n}"
+  },
+  {
+    "trial": 26,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers provide correct definitions, Answer 2 is more technically complete for an Operating Systems context. It includes the internal management structure (Process Control Block) and the dynamic lifecycle (Process States), which are fundamental to understanding how the OS schedules and tracks execution. Answer 1 is good but focuses more on the static memory layout and isolation.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers provide correct definitions, Answer 2 is more technically complete for an Operating Systems context. It includes the internal management structure (Process Control Block) and the dynamic lifecycle (Process States), which are fundamental to understanding how the OS schedules and tracks execution. Answer 1 is good but focuses more on the static memory layout and isolation.\"\n}"
+  },
+  {
+    "trial": 27,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is more technically complete from an operating systems perspective as it introduces the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to how an OS manages processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more technically complete from an operating systems perspective as it introduces the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to how an OS manages processes.\"\n}"
+  },
+  {
+    "trial": 28,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technical and comprehensive explanation of a process from an operating system perspective by including the Process Control Block (PCB) and the process lifecycle states. While Answer 1 correctly identifies memory sections, Answer 2 explains how the OS actually manages and tracks the process.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technical and comprehensive explanation of a process from an operating system perspective by including the Process Control Block (PCB) and the process lifecycle states. While Answer 1 correctly identifies memory sections, Answer 2 explains how the OS actually manages and tracks the process.\"\n}"
+  },
+  {
+    "trial": 29,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is more technically complete for an Operating Systems context. While both are accurate, Answer 2 includes the specific management structure (Process Control Block) and the fundamental five-state lifecycle model (New, Ready, Running, etc.), which are essential for understanding how an OS actually handles processes. Answer 1 is a good high-level overview but lacks these critical operational details.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more technically complete for an Operating Systems context. While both are accurate, Answer 2 includes the specific management structure (Process Control Block) and the fundamental five-state lifecycle model (New, Ready, Running, etc.), which are essential for understanding how an OS actually handles processes. Answer 1 is a good high-level overview but lacks these critical operational details.\"\n}"
+  },
+  {
+    "trial": 30,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is more technically complete for an Operating Systems context. While Answer 1 correctly identifies memory sections, Answer 2 includes the Process Control Block (PCB) and the Process State transition model, which are fundamental concepts for understanding how an OS manages and schedules processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more technically complete for an Operating Systems context. While Answer 1 correctly identifies memory sections, Answer 2 includes the Process Control Block (PCB) and the Process State transition model, which are fundamental concepts for understanding how an OS manages and schedules processes.\"\n}"
+  },
+  {
+    "trial": 31,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers are accurate, Answer 2 provides better technical depth by including the Process Control Block (PCB) and the specific lifecycle states (New, Ready, Running, etc.). These are essential concepts for understanding how an operating system actually manages and schedules processes, making it a more complete technical explanation.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers are accurate, Answer 2 provides better technical depth by including the Process Control Block (PCB) and the specific lifecycle states (New, Ready, Running, etc.). These are essential concepts for understanding how an operating system actually manages and schedules processes, making it a more complete technical explanation.\"\n}"
+  },
+  {
+    "trial": 32,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 1 provides a more holistic conceptual overview by defining the process as a unit of work, describing its resource needs, and explaining the critical concept of address space isolation. While Answer 2 correctly identifies management via the PCB and states, Answer 1's inclusion of the memory structure (code, data, stack) better defines 'what' the process is rather than just how it is managed.",
+    "raw_response": "{\n  \"winner\": \"1\",\n  \"reason\": \"Answer 1 provides a more holistic conceptual overview by defining the process as a unit of work, describing its resource needs, and explaining the critical concept of address space isolation. While Answer 2 correctly identifies management via the PCB and states, Answer 1's inclusion of the memory structure (code, data, stack) better defines 'what' the process is rather than just how it is managed.\"\n}"
+  },
+  {
+    "trial": 33,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers are accurate, Answer 2 is more technically complete as it introduces the Process Control Block (PCB) and the process lifecycle states, which are fundamental concepts for understanding how an operating system manages processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers are accurate, Answer 2 is more technically complete as it introduces the Process Control Block (PCB) and the process lifecycle states, which are fundamental concepts for understanding how an operating system manages processes.\"\n}"
+  },
+  {
+    "trial": 34,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers are accurate, Answer 2 is more technically complete as it introduces essential Operating System concepts such as the Process Control Block (PCB) and the process lifecycle states (Ready, Running, etc.), which are fundamental to understanding how an OS actually manages processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers are accurate, Answer 2 is more technically complete as it introduces essential Operating System concepts such as the Process Control Block (PCB) and the process lifecycle states (Ready, Running, etc.), which are fundamental to understanding how an OS actually manages processes.\"\n}"
+  },
+  {
+    "trial": 35,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically complete explanation of a process within the context of an Operating System. While Answer 1 correctly describes the conceptual nature and memory structure, Answer 2 introduces the fundamental mechanisms of OS process management: the Process Control Block (PCB) and the specific states of the process lifecycle.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically complete explanation of a process within the context of an Operating System. While Answer 1 correctly describes the conceptual nature and memory structure, Answer 2 introduces the fundamental mechanisms of OS process management: the Process Control Block (PCB) and the specific states of the process lifecycle.\"\n}"
+  },
+  {
+    "trial": 36,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is more technically complete as it includes the two most fundamental concepts in OS process management: the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 correctly identifies memory sections and resource needs, Answer 2 explains how the OS actually tracks and schedules the process.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more technically complete as it includes the two most fundamental concepts in OS process management: the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 correctly identifies memory sections and resource needs, Answer 2 explains how the OS actually tracks and schedules the process.\"\n}"
+  },
+  {
+    "trial": 37,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers are accurate, Answer 2 provides better technical depth by including the Process Control Block (PCB) and the specific lifecycle states (New, Ready, Running, etc.), which are fundamental concepts to how an Operating System manages processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers are accurate, Answer 2 provides better technical depth by including the Process Control Block (PCB) and the specific lifecycle states (New, Ready, Running, etc.), which are fundamental concepts to how an Operating System manages processes.\"\n}"
+  },
+  {
+    "trial": 38,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically complete definition for an Operating Systems context by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 correctly identifies memory sections and resource isolation, Answer 2 explains the specific mechanisms the OS uses to manage and schedule the process.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically complete definition for an Operating Systems context by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 correctly identifies memory sections and resource isolation, Answer 2 explains the specific mechanisms the OS uses to manage and schedule the process.\"\n}"
+  },
+  {
+    "trial": 39,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically comprehensive explanation by introducing the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an Operating System manages processes. While Answer 1 correctly identifies memory segments, Answer 2 covers the internal management and behavioral aspects of a process more effectively.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically comprehensive explanation by introducing the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an Operating System manages processes. While Answer 1 correctly identifies memory segments, Answer 2 covers the internal management and behavioral aspects of a process more effectively.\"\n}"
+  },
+  {
+    "trial": 40,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is more technically complete as it includes the Process Control Block (PCB) and the process lifecycle states, which are fundamental concepts for understanding how an operating system manages and tracks processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more technically complete as it includes the Process Control Block (PCB) and the process lifecycle states, which are fundamental concepts for understanding how an operating system manages and tracks processes.\"\n}"
+  },
+  {
+    "trial": 41,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically complete definition by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). These are fundamental concepts for understanding how an operating system manages and schedules processes, whereas Answer 1 stays at a slightly more high-level, descriptive tier.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically complete definition by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). These are fundamental concepts for understanding how an operating system manages and schedules processes, whereas Answer 1 stays at a slightly more high-level, descriptive tier.\"\n}"
+  },
+  {
+    "trial": 42,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically complete definition from an Operating Systems perspective by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 correctly identifies memory sections, Answer 2 explains how the OS actually manages and tracks the execution, which is fundamental to the concept.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically complete definition from an Operating Systems perspective by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 correctly identifies memory sections, Answer 2 explains how the OS actually manages and tracks the execution, which is fundamental to the concept.\"\n}"
+  },
+  {
+    "trial": 43,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 is more technically complete as it introduces the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to how an operating system manages processes. While Answer 1 provides a good overview of memory sections, Answer 2 better captures the operational mechanics of a process within the OS.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more technically complete as it introduces the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to how an operating system manages processes. While Answer 1 provides a good overview of memory sections, Answer 2 better captures the operational mechanics of a process within the OS.\"\n}"
+  },
+  {
+    "trial": 44,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically complete definition for an Operating Systems context by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 covers memory segments and isolation well, the PCB and state transitions are more fundamental to how an OS manages processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically complete definition for an Operating Systems context by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 covers memory segments and isolation well, the PCB and state transitions are more fundamental to how an OS manages processes.\"\n}"
+  },
+  {
+    "trial": 45,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers provide accurate definitions, Answer 2 is more technically complete from an operating systems perspective. It includes the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how the OS manages and schedules tasks. Answer 1 is a good conceptual overview but lacks the management and state-transition details found in Answer 2.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers provide accurate definitions, Answer 2 is more technically complete from an operating systems perspective. It includes the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how the OS manages and schedules tasks. Answer 1 is a good conceptual overview but lacks the management and state-transition details found in Answer 2.\"\n}"
+  },
+  {
+    "trial": 46,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more comprehensive technical overview by including the lifecycle states (New, Ready, Running, etc.) and the Process Control Block (PCB), which are fundamental to how an Operating System manages processes. Answer 1 is accurate but focuses more on the components and isolation, omitting the operational dynamics.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive technical overview by including the lifecycle states (New, Ready, Running, etc.) and the Process Control Block (PCB), which are fundamental to how an Operating System manages processes. Answer 1 is accurate but focuses more on the components and isolation, omitting the operational dynamics.\"\n}"
+  },
+  {
+    "trial": 47,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "While both answers are accurate, Answer 2 is more complete from a technical perspective as it introduces the Process Control Block (PCB) and the process lifecycle states, which are fundamental to understanding how an operating system manages and schedules processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers are accurate, Answer 2 is more complete from a technical perspective as it introduces the Process Control Block (PCB) and the process lifecycle states, which are fundamental to understanding how an operating system manages and schedules processes.\"\n}"
+  },
+  {
+    "trial": 48,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically rigorous explanation by including the Process Control Block (PCB) and the specific process states (New, Ready, Running, etc.), which are fundamental to how an operating system manages processes. While Answer 1 correctly identifies memory segments, Answer 2 covers the essential lifecycle and management structures used by the OS.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically rigorous explanation by including the Process Control Block (PCB) and the specific process states (New, Ready, Running, etc.), which are fundamental to how an operating system manages processes. While Answer 1 correctly identifies memory segments, Answer 2 covers the essential lifecycle and management structures used by the OS.\"\n}"
+  },
+  {
+    "trial": 49,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more comprehensive technical definition by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an operating system manages processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive technical definition by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.), which are fundamental to understanding how an operating system manages processes.\"\n}"
+  },
+  {
+    "trial": 50,
+    "order": "A-B",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 2 provides a more technically complete explanation for an Operating Systems context by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 correctly identifies memory sections and isolation, Answer 2 focuses on how the OS actually manages and tracks the process.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more technically complete explanation for an Operating Systems context by including the Process Control Block (PCB) and the process lifecycle states (New, Ready, Running, etc.). While Answer 1 correctly identifies memory sections and isolation, Answer 2 focuses on how the OS actually manages and tracks the process.\"\n}"
+  },
+  {
+    "trial": 51,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "While both answers are accurate, Answer 2 provides a more holistic definition. It covers not only what a process is, but also its internal structure (code, data, and stack sections), its resource requirements, and the fundamental concept of address space isolation, which is crucial for understanding process security and stability.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers are accurate, Answer 2 provides a more holistic definition. It covers not only what a process is, but also its internal structure (code, data, and stack sections), its resource requirements, and the fundamental concept of address space isolation, which is crucial for understanding process security and stability.\"\n}"
+  },
+  {
+    "trial": 52,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 1 provides a more technically comprehensive definition by including the Process Control Block (PCB) and the specific process states (New, Ready, Running, etc.), which are fundamental to how an Operating System manages processes. Answer 2 is also accurate but omits the state machine and the management structures used by the kernel.",
+    "raw_response": "{\n  \"winner\": \"1\",\n  \"reason\": \"Answer 1 provides a more technically comprehensive definition by including the Process Control Block (PCB) and the specific process states (New, Ready, Running, etc.), which are fundamental to how an Operating System manages processes. Answer 2 is also accurate but omits the state machine and the management structures used by the kernel.\"\n}"
+  },
+  {
+    "trial": 53,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive conceptual overview. While Answer 1 correctly identifies the PCB and states, Answer 2 explains the fundamental structure of a process (code, data, stack) and the critical concept of address space isolation, which is essential for understanding how processes differ from other execution units like threads.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive conceptual overview. While Answer 1 correctly identifies the PCB and states, Answer 2 explains the fundamental structure of a process (code, data, stack) and the critical concept of address space isolation, which is essential for understanding how processes differ from other execution units like threads.\"\n}"
+  },
+  {
+    "trial": 54,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive structural definition. While Answer 1 correctly identifies the PCB and states, Answer 2 explains the physical components of a process (code, data, and stack sections) and the critical concept of independent address spaces and isolation, which are fundamental to understanding what a process is in a modern system.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive structural definition. While Answer 1 correctly identifies the PCB and states, Answer 2 explains the physical components of a process (code, data, and stack sections) and the critical concept of independent address spaces and isolation, which are fundamental to understanding what a process is in a modern system.\"\n}"
+  },
+  {
+    "trial": 55,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more holistic view of a process by explaining its physical structure in memory (code, data, stack) and the fundamental concept of address space isolation. While Answer 1 correctly identifies the PCB and states, Answer 2 better explains why the process abstraction exists (resource allocation and fault isolation).",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more holistic view of a process by explaining its physical structure in memory (code, data, stack) and the fundamental concept of address space isolation. While Answer 1 correctly identifies the PCB and states, Answer 2 better explains why the process abstraction exists (resource allocation and fault isolation).\"\n}"
+  },
+  {
+    "trial": 56,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive conceptual overview. It correctly identifies the process as the unit of work, explains the importance of address space and isolation (fault tolerance), and describes the physical memory layout (code, data, stack), whereas Answer 1 focuses primarily on OS management metadata.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive conceptual overview. It correctly identifies the process as the unit of work, explains the importance of address space and isolation (fault tolerance), and describes the physical memory layout (code, data, stack), whereas Answer 1 focuses primarily on OS management metadata.\"\n}"
+  },
+  {
+    "trial": 57,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive structural definition of a process. It correctly identifies the internal memory layout (code, data, stack) and emphasizes the critical concept of address space isolation, which explains the 'why' behind the process model. Answer 1 is accurate but focuses more narrowly on OS management metadata and state transitions.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive structural definition of a process. It correctly identifies the internal memory layout (code, data, stack) and emphasizes the critical concept of address space isolation, which explains the 'why' behind the process model. Answer 1 is accurate but focuses more narrowly on OS management metadata and state transitions.\"\n}"
+  },
+  {
+    "trial": 58,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "While both answers are technically accurate, Answer 2 provides a more comprehensive definition. It explains the structural components of a process (code, data, stack), resource requirements, and the crucial concept of address space isolation, which distinguishes processes from threads. Answer 1 focuses more narrowly on OS management and state transitions.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers are technically accurate, Answer 2 provides a more comprehensive definition. It explains the structural components of a process (code, data, stack), resource requirements, and the crucial concept of address space isolation, which distinguishes processes from threads. Answer 1 focuses more narrowly on OS management and state transitions.\"\n}"
+  },
+  {
+    "trial": 59,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by explaining the process's structural components (code, data, stack), its resource requirements, and the fundamental principle of isolation through separate address spaces. While Answer 1 correctly identifies management via PCB and the state model, Answer 2 offers a better conceptual understanding of what a process consists of and why it matters to system stability.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by explaining the process's structural components (code, data, stack), its resource requirements, and the fundamental principle of isolation through separate address spaces. While Answer 1 correctly identifies management via PCB and the state model, Answer 2 offers a better conceptual understanding of what a process consists of and why it matters to system stability.\"\n}"
+  },
+  {
+    "trial": 60,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by explaining the process's internal memory structure (code, data, and stack) and the critical concept of address space isolation. While Answer 1 correctly identifies the PCB and state transitions, Answer 2 better conveys the functional nature of a process and how it interacts with system resources.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by explaining the process's internal memory structure (code, data, and stack) and the critical concept of address space isolation. While Answer 1 correctly identifies the PCB and state transitions, Answer 2 better conveys the functional nature of a process and how it interacts with system resources.\"\n}"
+  },
+  {
+    "trial": 61,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 is more comprehensive because it covers the physical structure of a process (code, data, and stack sections) and the fundamental concept of address space isolation, which explains why processes are distinct from threads. While Answer 1 correctly identifies the PCB and states, Answer 2 provides a broader understanding of what a process is and why it exists as a unit of work.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more comprehensive because it covers the physical structure of a process (code, data, and stack sections) and the fundamental concept of address space isolation, which explains why processes are distinct from threads. While Answer 1 correctly identifies the PCB and states, Answer 2 provides a broader understanding of what a process is and why it exists as a unit of work.\"\n}"
+  },
+  {
+    "trial": 62,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive conceptual overview. It explains the process's internal memory structure (code, data, stack), its resource requirements, and the fundamental principle of address space isolation. While Answer 1 is accurate regarding OS management (PCB) and state transitions, Answer 2 better defines what a process actually is and how it functions within the system.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive conceptual overview. It explains the process's internal memory structure (code, data, stack), its resource requirements, and the fundamental principle of address space isolation. While Answer 1 is accurate regarding OS management (PCB) and state transitions, Answer 2 better defines what a process actually is and how it functions within the system.\"\n}"
+  },
+  {
+    "trial": 63,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 1 provides a more technically robust definition by including the Process Control Block (PCB) and the standard five-state lifecycle (New, Ready, Running, Waiting, Terminated). These are fundamental concepts in OS process management. While Answer 2 correctly identifies memory sections and address space, Answer 1 better captures how the OS actually tracks and manages the process as an entity.",
+    "raw_response": "{\n  \"winner\": \"1\",\n  \"reason\": \"Answer 1 provides a more technically robust definition by including the Process Control Block (PCB) and the standard five-state lifecycle (New, Ready, Running, Waiting, Terminated). These are fundamental concepts in OS process management. While Answer 2 correctly identifies memory sections and address space, Answer 1 better captures how the OS actually tracks and manages the process as an entity.\"\n}"
+  },
+  {
+    "trial": 64,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive conceptual overview. While Answer 1 correctly identifies management structures like the PCB and states, Answer 2 explains the internal structure (code, data, stack), the necessity of resources, and the critical concept of address space isolation, which is fundamental to defining what a process is in relation to the OS.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive conceptual overview. While Answer 1 correctly identifies management structures like the PCB and states, Answer 2 explains the internal structure (code, data, stack), the necessity of resources, and the critical concept of address space isolation, which is fundamental to defining what a process is in relation to the OS.\"\n}"
+  },
+  {
+    "trial": 65,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive overview of what a process consists of internally (code, data, and stack sections) and highlights the critical concept of address space isolation. While Answer 1 correctly identifies management tools like the PCB and states, Answer 2 better explains the process's relationship with system resources and its independence from other processes.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive overview of what a process consists of internally (code, data, and stack sections) and highlights the critical concept of address space isolation. While Answer 1 correctly identifies management tools like the PCB and states, Answer 2 better explains the process's relationship with system resources and its independence from other processes.\"\n}"
+  },
+  {
+    "trial": 66,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by including the structural components of a process (code, data, and stack) and the concept of address space isolation. While Answer 1 correctly identifies management tools like the PCB and states, Answer 2 better explains what a process actually consists of and how it functions within the system's memory.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by including the structural components of a process (code, data, and stack) and the concept of address space isolation. While Answer 1 correctly identifies management tools like the PCB and states, Answer 2 better explains what a process actually consists of and how it functions within the system's memory.\"\n}"
+  },
+  {
+    "trial": 67,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive overview of a process by detailing its internal structure (code, data, and stack sections) and the critical concept of isolation through independent address spaces. While Answer 1 correctly identifies the management aspect (PCB and states), Answer 2 better explains what a process actually consists of and how it interacts with system resources.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive overview of a process by detailing its internal structure (code, data, and stack sections) and the critical concept of isolation through independent address spaces. While Answer 1 correctly identifies the management aspect (PCB and states), Answer 2 better explains what a process actually consists of and how it interacts with system resources.\"\n}"
+  },
+  {
+    "trial": 68,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more holistic definition by explaining the physical structure of a process (code, data, and stack sections) and the critical concept of isolation through independent address spaces, whereas Answer 1 focuses more narrowly on OS management and states.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more holistic definition by explaining the physical structure of a process (code, data, and stack sections) and the critical concept of isolation through independent address spaces, whereas Answer 1 focuses more narrowly on OS management and states.\"\n}"
+  },
+  {
+    "trial": 69,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "While both answers are accurate, Answer 2 is more complete as it describes the physical structure of a process in memory (code, data, and stack sections) and emphasizes the critical concept of address space isolation, which is a defining characteristic of processes in modern operating systems.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers are accurate, Answer 2 is more complete as it describes the physical structure of a process in memory (code, data, and stack sections) and emphasizes the critical concept of address space isolation, which is a defining characteristic of processes in modern operating systems.\"\n}"
+  },
+  {
+    "trial": 70,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by explaining the memory structure (code, data, stack) and the crucial concept of address space isolation, which explains why processes are protected from one another. While Answer 1 is accurate regarding states and the PCB, Answer 2 better describes the process as a physical entity within the system.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by explaining the memory structure (code, data, stack) and the crucial concept of address space isolation, which explains why processes are protected from one another. While Answer 1 is accurate regarding states and the PCB, Answer 2 better describes the process as a physical entity within the system.\"\n}"
+  },
+  {
+    "trial": 71,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by explaining the internal structure of a process (code, data, and stack sections) and the critical concept of memory isolation via independent address spaces. While Answer 1 correctly identifies the PCB and states, Answer 2 better explains what a process actually consists of and how it interacts with system resources.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by explaining the internal structure of a process (code, data, and stack sections) and the critical concept of memory isolation via independent address spaces. While Answer 1 correctly identifies the PCB and states, Answer 2 better explains what a process actually consists of and how it interacts with system resources.\"\n}"
+  },
+  {
+    "trial": 72,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive foundational definition. While both are accurate, Answer 2 covers the memory layout (code, data, stack) and the crucial concept of address space isolation, which is a defining characteristic of a process. Answer 1 focuses more on the management lifecycle (states and PCB), which is useful but secondary to understanding what the process entity actually consists of and how it interacts with the system.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive foundational definition. While both are accurate, Answer 2 covers the memory layout (code, data, stack) and the crucial concept of address space isolation, which is a defining characteristic of a process. Answer 1 focuses more on the management lifecycle (states and PCB), which is useful but secondary to understanding what the process entity actually consists of and how it interacts with the system.\"\n}"
+  },
+  {
+    "trial": 73,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by explaining the process's internal structure (code, data, and stack) and its fundamental characteristic of isolation through a private address space. While Answer 1 correctly identifies the PCB and state transitions, Answer 2 better explains what a process actually consists of and how it interacts with system resources.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by explaining the process's internal structure (code, data, and stack) and its fundamental characteristic of isolation through a private address space. While Answer 1 correctly identifies the PCB and state transitions, Answer 2 better explains what a process actually consists of and how it interacts with system resources.\"\n}"
+  },
+  {
+    "trial": 74,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive overview of what a process 'is' by including its memory structure (code, data, stack) and the critical concept of isolation (private address space). While Answer 1 correctly identifies management structures like the PCB and states, Answer 2 better explains the fundamental characteristics and resource requirements of a process.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive overview of what a process 'is' by including its memory structure (code, data, stack) and the critical concept of isolation (private address space). While Answer 1 correctly identifies management structures like the PCB and states, Answer 2 better explains the fundamental characteristics and resource requirements of a process.\"\n}"
+  },
+  {
+    "trial": 75,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by explaining the process's internal structure (code, data, and stack sections) and the critical concept of address space isolation. While Answer 1 correctly identifies management structures like the PCB and lifecycle states, Answer 2 better explains what a process actually consists of and how it functions as an independent unit of work within the system.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by explaining the process's internal structure (code, data, and stack sections) and the critical concept of address space isolation. While Answer 1 correctly identifies management structures like the PCB and lifecycle states, Answer 2 better explains what a process actually consists of and how it functions as an independent unit of work within the system.\"\n}"
+  },
+  {
+    "trial": 76,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by covering not only what a process is, but also its internal structure (code, data, and stack sections) and its operational significance (resource requirements and isolation via address spaces). While Answer 1 is technically accurate regarding management and states, Answer 2 offers a better conceptual overview for understanding the process's role in a system.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by covering not only what a process is, but also its internal structure (code, data, and stack sections) and its operational significance (resource requirements and isolation via address spaces). While Answer 1 is technically accurate regarding management and states, Answer 2 offers a better conceptual overview for understanding the process's role in a system.\"\n}"
+  },
+  {
+    "trial": 77,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "B",
+    "reason": "Answer 1 provides a more technically robust definition by identifying the Process Control Block (PCB) as the central management structure and outlining the formal five-state lifecycle (New, Ready, Running, Waiting, Terminated). While Answer 2 correctly mentions memory segments and isolation, Answer 1's focus on state transitions and OS management structures is more fundamental to the 'Operating Systems' perspective of the topic.",
+    "raw_response": "{\n  \"winner\": \"1\",\n  \"reason\": \"Answer 1 provides a more technically robust definition by identifying the Process Control Block (PCB) as the central management structure and outlining the formal five-state lifecycle (New, Ready, Running, Waiting, Terminated). While Answer 2 correctly mentions memory segments and isolation, Answer 1's focus on state transitions and OS management structures is more fundamental to the 'Operating Systems' perspective of the topic.\"\n}"
+  },
+  {
+    "trial": 78,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more holistic definition of a process by explaining its structural components (code, data, and stack) and its functional role in the system, specifically highlighting address space isolation and resource allocation. While Answer 1 correctly identifies management structures like the PCB and process states, Answer 2 better defines what the process actually consists of and why it is the primary unit of isolation in an operating system.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more holistic definition of a process by explaining its structural components (code, data, and stack) and its functional role in the system, specifically highlighting address space isolation and resource allocation. While Answer 1 correctly identifies management structures like the PCB and process states, Answer 2 better defines what the process actually consists of and why it is the primary unit of isolation in an operating system.\"\n}"
+  },
+  {
+    "trial": 79,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by including the structural layout of a process (code, data, and stack sections) and the critical concept of address space isolation. While Answer 1 correctly identifies management via the PCB and state transitions, Answer 2 better explains what the process actually consists of in memory.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by including the structural layout of a process (code, data, and stack sections) and the critical concept of address space isolation. While Answer 1 correctly identifies management via the PCB and state transitions, Answer 2 better explains what the process actually consists of in memory.\"\n}"
+  },
+  {
+    "trial": 80,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "While Answer 1 correctly identifies the OS management components (PCB and states), Answer 2 provides a more fundamental and comprehensive description of what a process actually is. It explains the memory layout (code, data, stack), the concept of address space isolation, and the necessity of system resources, which are essential for understanding the distinction between a process and a program.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While Answer 1 correctly identifies the OS management components (PCB and states), Answer 2 provides a more fundamental and comprehensive description of what a process actually is. It explains the memory layout (code, data, stack), the concept of address space isolation, and the necessity of system resources, which are essential for understanding the distinction between a process and a program.\"\n}"
+  },
+  {
+    "trial": 81,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by including the internal structure of a process (code section, data section, and stack) and the concept of process isolation via separate address spaces. While Answer 1 correctly identifies management tools like the PCB and states, Answer 2 better explains what the process actually consists of and how it interacts with system resources.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by including the internal structure of a process (code section, data section, and stack) and the concept of process isolation via separate address spaces. While Answer 1 correctly identifies management tools like the PCB and states, Answer 2 better explains what the process actually consists of and how it interacts with system resources.\"\n}"
+  },
+  {
+    "trial": 82,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive and holistic definition of a process. It not only defines it as a 'program in execution' but also explains the fundamental components of its memory layout (code, data, and stack) and the crucial concept of address space isolation. While Answer 1 correctly identifies the PCB and process states, Answer 2 better explains the logical structure and resource requirements that distinguish a process from a static program.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive and holistic definition of a process. It not only defines it as a 'program in execution' but also explains the fundamental components of its memory layout (code, data, and stack) and the crucial concept of address space isolation. While Answer 1 correctly identifies the PCB and process states, Answer 2 better explains the logical structure and resource requirements that distinguish a process from a static program.\"\n}"
+  },
+  {
+    "trial": 83,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by including the memory structure of a process (code, data, stack) and the critical concept of address space isolation. While Answer 1 correctly identifies management tools like the PCB and lifecycle states, Answer 2 better explains what the process actually consists of and how it behaves within the system environment.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by including the memory structure of a process (code, data, stack) and the critical concept of address space isolation. While Answer 1 correctly identifies management tools like the PCB and lifecycle states, Answer 2 better explains what the process actually consists of and how it behaves within the system environment.\"\n}"
+  },
+  {
+    "trial": 84,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "While both answers are accurate, Answer 2 provides a more comprehensive definition by explaining the internal structure of a process (code, data, and stack) and the critical concept of memory isolation through independent address spaces. Answer 1 focuses more on the OS management and lifecycle states, which is important but less descriptive of what a process actually is in the context of system architecture.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"While both answers are accurate, Answer 2 provides a more comprehensive definition by explaining the internal structure of a process (code, data, and stack) and the critical concept of memory isolation through independent address spaces. Answer 1 focuses more on the OS management and lifecycle states, which is important but less descriptive of what a process actually is in the context of system architecture.\"\n}"
+  },
+  {
+    "trial": 85,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive conceptual overview of a process by explaining its resource requirements, internal memory structure (code, data, and stack), and the critical concept of address space isolation. While Answer 1 is technically accurate regarding OS management (PCB and states), Answer 2 better explains what the process actually consists of and its role as an isolated unit of work.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive conceptual overview of a process by explaining its resource requirements, internal memory structure (code, data, and stack), and the critical concept of address space isolation. While Answer 1 is technically accurate regarding OS management (PCB and states), Answer 2 better explains what the process actually consists of and its role as an isolated unit of work.\"\n}"
+  },
+  {
+    "trial": 86,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive structural definition by including the internal components of a process (code, data, and stack) and the fundamental concept of address space isolation. While Answer 1 correctly identifies management aspects like the PCB and states, Answer 2 better explains what a process consists of and why it exists as a unit of work.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive structural definition by including the internal components of a process (code, data, and stack) and the fundamental concept of address space isolation. While Answer 1 correctly identifies management aspects like the PCB and states, Answer 2 better explains what a process consists of and why it exists as a unit of work.\"\n}"
+  },
+  {
+    "trial": 87,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by explaining the process's internal structure (code, data, and stack sections) and its role in system isolation (address space). While Answer 1 correctly identifies the PCB and states, Answer 2 better describes the physical and logical composition of a process as a unit of work.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by explaining the process's internal structure (code, data, and stack sections) and its role in system isolation (address space). While Answer 1 correctly identifies the PCB and states, Answer 2 better describes the physical and logical composition of a process as a unit of work.\"\n}"
+  },
+  {
+    "trial": 88,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition of what a process is by explaining its internal structure (code, data, and stack sections) and the fundamental concept of address space isolation. While Answer 1 correctly identifies the PCB and lifecycle states, Answer 2 better captures the process's relationship with system resources and its role as the primary unit of isolation in an operating system.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition of what a process is by explaining its internal structure (code, data, and stack sections) and the fundamental concept of address space isolation. While Answer 1 correctly identifies the PCB and lifecycle states, Answer 2 better captures the process's relationship with system resources and its role as the primary unit of isolation in an operating system.\"\n}"
+  },
+  {
+    "trial": 89,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive structural definition of a process by mentioning the memory layout (code, data, and stack) and the crucial concept of an independent address space, which explains process isolation. While Answer 1 correctly identifies the PCB and states, Answer 2 better explains what a process actually consists of and why its resource management is important.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive structural definition of a process by mentioning the memory layout (code, data, and stack) and the crucial concept of an independent address space, which explains process isolation. While Answer 1 correctly identifies the PCB and states, Answer 2 better explains what a process actually consists of and why its resource management is important.\"\n}"
+  },
+  {
+    "trial": 90,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 is more comprehensive because it covers the fundamental concepts of memory isolation and the process address space. While Answer 1 correctly identifies the OS management components (PCB and states), Answer 2 provides a better explanation of what a process actually consists of (code, data, stack) and its operational relationship with the system (resources and isolation).",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more comprehensive because it covers the fundamental concepts of memory isolation and the process address space. While Answer 1 correctly identifies the OS management components (PCB and states), Answer 2 provides a better explanation of what a process actually consists of (code, data, stack) and its operational relationship with the system (resources and isolation).\"\n}"
+  },
+  {
+    "trial": 91,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more holistic explanation of what a process is by covering its memory structure (code, data, and stack) and its functional role in the system, specifically mentioning address space isolation. While Answer 1 correctly details the Process Control Block and lifecycle states, Answer 2's focus on resources and fault isolation offers a better conceptual understanding of the term.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more holistic explanation of what a process is by covering its memory structure (code, data, and stack) and its functional role in the system, specifically mentioning address space isolation. While Answer 1 correctly details the Process Control Block and lifecycle states, Answer 2's focus on resources and fault isolation offers a better conceptual understanding of the term.\"\n}"
+  },
+  {
+    "trial": 92,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive overview of what a process is by describing its internal structure (code, data, stack), its resource requirements, and the critical concept of address space isolation. While Answer 1 correctly identifies the PCB and lifecycle states, Answer 2 better explains the fundamental nature and components of the process itself.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive overview of what a process is by describing its internal structure (code, data, stack), its resource requirements, and the critical concept of address space isolation. While Answer 1 correctly identifies the PCB and lifecycle states, Answer 2 better explains the fundamental nature and components of the process itself.\"\n}"
+  },
+  {
+    "trial": 93,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive overview of what a process is from a structural and functional perspective. It covers the memory layout (code, data, stack), resource requirements, and the critical concept of memory isolation/address spaces, which explains how processes interact with the system and each other. While Answer 1 is also accurate and provides the lifecycle states, Answer 2's explanation of isolation and the unit of work provides better conceptual clarity for a general definition.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive overview of what a process is from a structural and functional perspective. It covers the memory layout (code, data, stack), resource requirements, and the critical concept of memory isolation/address spaces, which explains how processes interact with the system and each other. While Answer 1 is also accurate and provides the lifecycle states, Answer 2's explanation of isolation and the unit of work provides better conceptual clarity for a general definition.\"\n}"
+  },
+  {
+    "trial": 94,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive fundamental definition. It covers the memory layout (code, data, stack), resource requirements, and the critical concept of address space isolation, which explains how processes interact with the system and each other. While Answer 1 correctly identifies the PCB and lifecycle states, Answer 2 better explains what a process actually consists of and why it is the primary unit of work in an OS.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive fundamental definition. It covers the memory layout (code, data, stack), resource requirements, and the critical concept of address space isolation, which explains how processes interact with the system and each other. While Answer 1 correctly identifies the PCB and lifecycle states, Answer 2 better explains what a process actually consists of and why it is the primary unit of work in an OS.\"\n}"
+  },
+  {
+    "trial": 95,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 is more complete as it describes the fundamental components of a process (code, data, and stack) and the concept of process isolation through independent address spaces. While Answer 1 correctly identifies the PCB and states, Answer 2 provides a better conceptual understanding of what a process is in terms of system resources and memory structure.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 is more complete as it describes the fundamental components of a process (code, data, and stack) and the concept of process isolation through independent address spaces. While Answer 1 correctly identifies the PCB and states, Answer 2 provides a better conceptual understanding of what a process is in terms of system resources and memory structure.\"\n}"
+  },
+  {
+    "trial": 96,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive overview of the process concept. While Answer 1 correctly identifies the Process Control Block (PCB) and the lifecycle states, Answer 2 covers the essential architectural aspects, including the memory layout (code, data, stack), the requirement for resources (I/O, files, CPU), and the critical concept of address space isolation. This makes it a more well-rounded explanation of both what a process is and why it exists as a protected unit of work.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive overview of the process concept. While Answer 1 correctly identifies the Process Control Block (PCB) and the lifecycle states, Answer 2 covers the essential architectural aspects, including the memory layout (code, data, stack), the requirement for resources (I/O, files, CPU), and the critical concept of address space isolation. This makes it a more well-rounded explanation of both what a process is and why it exists as a protected unit of work.\"\n}"
+  },
+  {
+    "trial": 97,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by explaining the internal structure (code, data, and stack segments) and the critical concept of address space isolation, which explains why processes are distinct from one another. While Answer 1 correctly identifies the PCB and states, Answer 2 better describes what the process actually consists of and how it interacts with system resources.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by explaining the internal structure (code, data, and stack segments) and the critical concept of address space isolation, which explains why processes are distinct from one another. While Answer 1 correctly identifies the PCB and states, Answer 2 better describes what the process actually consists of and how it interacts with system resources.\"\n}"
+  },
+  {
+    "trial": 98,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by explaining the physical structure of a process (code, data, and stack sections) and the critical concept of address space isolation. While Answer 1 correctly identifies the management side (PCB and states), Answer 2 better explains the resource requirements and the technical boundary that defines a process in an operating system.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by explaining the physical structure of a process (code, data, and stack sections) and the critical concept of address space isolation. While Answer 1 correctly identifies the management side (PCB and states), Answer 2 better explains the resource requirements and the technical boundary that defines a process in an operating system.\"\n}"
+  },
+  {
+    "trial": 99,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive overview of what a process actually consists of. While Answer 1 correctly identifies the lifecycle and management structure (PCB), Answer 2 explains the physical layout (code, data, stack), the concept of address space isolation, and the resource requirements, which are fundamental to understanding the distinction between a process and a program.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive overview of what a process actually consists of. While Answer 1 correctly identifies the lifecycle and management structure (PCB), Answer 2 explains the physical layout (code, data, stack), the concept of address space isolation, and the resource requirements, which are fundamental to understanding the distinction between a process and a program.\"\n}"
+  },
+  {
+    "trial": 100,
+    "order": "B-A",
+    "strategy": "cai",
+    "winner": "A",
+    "reason": "Answer 2 provides a more comprehensive definition by explaining the process's memory layout (code, data, stack), its resource requirements, and the crucial concept of address space isolation. While Answer 1 correctly identifies management structures like the PCB and states, Answer 2 better defines the fundamental nature and structure of a process.",
+    "raw_response": "{\n  \"winner\": \"2\",\n  \"reason\": \"Answer 2 provides a more comprehensive definition by explaining the process's memory layout (code, data, stack), its resource requirements, and the crucial concept of address space isolation. While Answer 1 correctly identifies management structures like the PCB and states, Answer 2 better defines the fundamental nature and structure of a process.\"\n}"
+  }
+]
